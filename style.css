@@ -1,0 +1,19 @@
+h2 {
+    background-color:slategray;
+    color:rgb(80, 194, 247)
+}
+#apple {
+    font-family:Georgia;
+}
+.header {
+    background-color: rgb(105, 140, 255);
+}
+body {
+    background-color: rgb(245, 234, 219);
+}
+tr {
+    background-color: rgb(184, 206, 247);
+}
+table {
+    border-color: rgb(255, 255, 255);
+}
