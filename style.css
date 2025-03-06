@@ -16,4 +16,23 @@ tr {
 }
 table {
     border-color: rgb(255, 255, 255);
+    background-color:rgb(243,211,216);
 }
+h1 {
+    text-align: center;
+    color:red;
+    font-size: 40px;
+    font-family:fantasy;
+}
+img {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+    from {
+        color:
+    }
+ div.title:hover {
+    color:skyblue;
+ }

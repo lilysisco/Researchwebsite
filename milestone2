@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>milestone2</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="title"><h1>Milestone 2:The iPhone 4</h1></div>
+    </header>
+    <main>
+        <a href="https://en.wikipedia.org/wiki/IPhone_4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/IPhone_4_Mock_No_Shadow_PSD.png/200px-IPhone_4_Mock_No_Shadow_PSD.png" alt=""></a>
+        <p><h5>A smartphone that was developed and marketed by Apple Inc. It is the fourth generation of the iPhone lineup, succeeding the iPhone 3GS and preceding the iPhone 4s. </h5></p>
+        <div>
+        <table>
+            <tr class="header">
+                <th> <a href="milestone1">The iPhone 2G </a> </th>
+                <th> <a href="milestone2">The iPhone 4 </a></th>
+                <th> <a href="milestone3">The iPhone 5S </a></th>
+                <th> <a href="milestone4">The iPhone X </a></th>
+                <th> <a href="milestone5">The iPhone 14 </a></th>
+            </tr>
+            <tr>
+                <td>The first iPhone</td>
+                <td>First iPhone with facetime</td>
+                <td>First iPhone with Siri</td>
+                <td>First iPhone without a home button</td>
+                <td>First iPhone with crash detection mode</td>
+            </tr>
+            <tr>
+                <td>June 29, 2007</td>
+                <td>June 24, 2010</td>
+                <td>September 20, 2016</td>
+                <td>November 13, 2017</td>
+                <td>September 16, 2022</td>
+            </tr>
+    
+    
+        </table>
+    </div>
+    </main>
+    <footer>
+        <div>
+            <h6>Source: Smartphone front view with screen turned off, <em>Justin14</em>, 2 April 2013,<a href="https://en.wikipedia.org/wiki/IPhone_4"> en.wikipedia.org </a> </h6>
+        </div>
+    </footer>
+</body>

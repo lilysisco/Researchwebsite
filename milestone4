@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>milestone4</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+      <div class="title"> <h1>Milestone 4:The iPhone X</h1></div>
+    </header>
+    <main>
+        <div>
+            <a href="https://en.wikipedia.org/wiki/IPhone_X"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/IPhone_X_vector.svg/220px-IPhone_X_vector.svg.png" alt=""></a>
+            <p><h5>A smartphone that was developed and marketed by Apple Inc. It is part of the 11th generation of the iPhone. Available for pre-order from September 26, 2017, it was released on November 3, 2017.</h5></p>
+        <table>
+            <tr class="header">
+                <th> <a href="milestone1">The iPhone 2G </a> </th>
+                <th> <a href="milestone2">The iPhone 4 </a></th>
+                <th> <a href="milestone3">The iPhone 5S </a></th>
+                <th> <a href="milestone4">The iPhone X </a></th>
+                <th> <a href="milestone5">The iPhone 14 </a></th>
+            </tr>
+            <tr>
+                <td>The first iPhone</td>
+                <td>First iPhone with facetime</td>
+                <td>First iPhone with Siri</td>
+                <td>First iPhone without a home button</td>
+                <td>First iPhone with crash detection mode</td>
+            </tr>
+            <tr>
+                <td>June 29, 2007</td>
+                <td>June 24, 2010</td>
+                <td>September 20, 2016</td>
+                <td>November 13, 2017</td>
+                <td>September 16, 2022</td>
+            </tr>
+    
+    
+        </table>
+        </div>
+    </main>
+    <footer>
+        <div>
+            <h6>Source: A vector illistration of the iPhone X in silver, <em>Rafael Fernandez</em>, 12 September 2017, <a href="https://en.wikipedia.org/wiki/IPhone_X#/media/File:IPhone_X_vector.svg"> en.wikipedia.org </a></h6>
+        </div>
+    </footer>
+</body>

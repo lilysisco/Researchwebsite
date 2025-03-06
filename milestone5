@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>milestone5</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+       <div class="title"><h1>Milestone 5:The iPhone 14</h1></div>
+    </header>
+    <main>
+        <div>
+            <a href="https://en.wikipedia.org/wiki/IPhone_14#/media/File:IPhone_14_vector.svg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/IPhone_14_vector.svg/800px-IPhone_14_vector.svg.png" width= "220px"></a>
+                <p><h5>A smartphone developed and marketed by Apple Inc. They are the sixteenth-generation iPhones, succeeding the iPhone 13 and iPhone 13 Mini, and were announced during Apple Event, Apple Park in Cupertino, California, on September 7, 2022</h5></p>
+        <table>
+            <tr class="header">
+                <th> <a href="milestone1">The iPhone 2G </a> </th>
+                <th> <a href="milestone2">The iPhone 4 </a></th>
+                <th> <a href="milestone3">The iPhone 5S </a></th>
+                <th> <a href="milestone4">The iPhone X </a></th>
+                <th> <a href="milestone5">The iPhone 14 </a></th>
+            </tr>
+            <tr>
+                <td>The first iPhone</td>
+                <td>First iPhone with facetime</td>
+                <td>First iPhone with Siri</td>
+                <td>First iPhone without a home button</td>
+                <td>First iPhone with crash detection mode</td>
+            </tr>
+            <tr>
+                <td>June 29, 2007</td>
+                <td>June 24, 2010</td>
+                <td>September 20, 2016</td>
+                <td>November 13, 2017</td>
+                <td>September 16, 2022</td>
+            </tr>
+    
+    
+        </table>
+        </div>
+    </main>
+    <footer>
+        <div>
+            <h6>Source:A vector illistration of a blue iPhone 14,<em> Rafael Fernandez</em>, 7 September 2022,<a href="https://en.wikipedia.org/wiki/IPhone_14#/media/File:IPhone_14_vector.svg">en.wikipedia.org</a></h6>
+        </div>
+    </footer>
+</body>

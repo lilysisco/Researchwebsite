@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>milestone1</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+      <div class="title"> <h1>milestone 1:The iPhone 2G</h1> </div>
+    </header>
+    <main>
+        <a href="https://en.wikipedia.org/wiki/IPhone_(1st_generation)"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IPhone_1st_Gen.svg/200px-IPhone_1st_Gen.svg.png" alt=""></a><br>
+        <p>The iPhone[5] (retroactively referred to as the iPhone 2G[6] or iPhone 1[7]) is the first iPhone model and the first smartphone developed and marketed by Apple Inc. After years of rumors and speculation, it was officially announced on January 9, 2007,[8] and was released in the United States on June 29, 2007.</p>
+        <div>
+            <table>
+            <tr class="header">
+                <th> <a href="milestone1">The iPhone 2G </a> </th>
+                <th> <a href="milestone2">The iPhone 4 </a></th>
+                <th> <a href="milestone3">The iPhone 5S </a></th>
+                <th> <a href="milestone4">The iPhone X </a></th>
+                <th> <a href="milestone5">The iPhone 14 </a></th>
+            </tr>
+            <tr>
+                <td>The first iPhone</td>
+                <td>First iPhone with facetime</td>
+                <td>First iPhone with Siri</td>
+                <td>First iPhone without a home button</td>
+                <td>First iPhone with crash detection mode</td>
+            </tr>
+            <tr>
+                <td>June 29, 2007</td>
+                <td>June 24, 2010</td>
+                <td>September 20, 2016</td>
+                <td>November 13, 2017</td>
+                <td>September 16, 2022</td>
+            </tr>
+        </table>
+    </div>
+    </main>
+    <footer>
+        <div>
+            <h6>Source:A vector illistration of a blue iPhone 14,<em> Rafael Fernandez</em>, 7 September 2022,<a href="https://en.wikipedia.org/wiki/IPhone_14#/media/File:IPhone_14_vector.svg">en.wikipedia.org</a></h6>
+        </div>
+    </footer>
+</body>
+</html>
